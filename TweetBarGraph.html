@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+  <script src="http://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+</head>
+<body>
+  <div id="viz"></div>
+    <script>
+    // set the dimensions and margins of the graph
+    var margin = {top: 20, right: 20, bottom: 140, left: 100},
+        width = 600 - margin.left - margin.right,
+        height = 600 - margin.top - margin.bottom;
+
+    // create svg element, respecting margins
+    var svg = d3.select("#viz")
+      .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+
+       // Add X axis label:
+       svg.append("text")
+          .attr("text-anchor", "end")
+          .attr("x", 400 )
+          .attr("y", 500 )
+          .text("User");
+
+        // Y axis label:
+        svg.append("text")
+            .attr("text-anchor", "end")
+            .attr("transform", "rotate(-90)")
+            .attr("y", -margin.left+20)
+            .attr("x", -margin.top)
+            .text("Number of tweets")
+
+    d3.json("tweets.json", function(data) {
+      var tweetData = //add here to point the array below Tweets
+      var nestedTweets = // build a nested data with user as a key and tweetData in entries
+                         // use d3.nest().key().entries()
+
+      //add a key value pair (the number of tweets) into the array list with forEach
+      nestedTweets.forEach (function (el) {
+        el.numTweets = el.values.length;
+      })
+
+      //list key values from the nested array
+      var users = //make an array with user names. expected output: [al, Roy, Pris, sam ]
+                  //use map function
+
+      var maxTweets = //find the highest values in retweet(numTweets). use d3.max()
+
+      var yScale = d3.scaleLinear().domain([0, maxTweets]).range([height, 0]);
+      var xScale = d3.scaleBand().domain(users).range([0, width]);
+
+      svg.append("g")
+         .call(d3.axisLeft(yScale));
+
+      svg.append("g")
+         .attr("transform", "translate(0," + height + ")")
+         .call(d3.axisBottom(xScale));
+
+     svg.selectAll("rect")
+        .data(nestedTweets)
+        .enter()
+        .append("rect")
+        .attr("x", function(d, i) {return  width/16 + (i * width/4);})
+        .attr("y", function(d) {return  yScale(d.numTweets);})
+        .attr("width", 1/2*xScale.bandwidth())
+        .attr("y", function(d) { return yScale(0);})
+        .attr("height", 0)
+        .style("fill", "LightBlue")
+        .transition()
+        .duration(3000)
+        .attr("y", function(d) {return  yScale(d.numTweets);})
+        .attr("height", function(d) {return height - yScale(d.numTweets);})
+        .style("fill", "DarkBlue")
+        .style("stroke", "DarkBlue")
+        .style("stroke-width", "1px")
+
+   });
+
+    </script>
+
+</body>
+</html>
