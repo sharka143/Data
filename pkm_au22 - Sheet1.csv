@@ -1,0 +1,126 @@
+lon,lat,imgUrl,collector,pkm,location,env
+-122.3053300,47.6559864,pkm1_capers,caperscrew,Starly,Walkway,built
+-122.3054115,47.6561312,pkm2_capers,caperscrew,Tauros,Walkway,built
+-122.3051430,47.6561405,pkm3_capers,caperscrew,Snobull,Ground,built
+-122.3052972,47.6561786,pkm4_capers,caperscrew,Totodile,Walkway,built
+-122.3048275,47.6564819,pkm5_capers,caperscrew,Muna,Ground,built
+-122.3048637,47.6561215,pkm6_capers,caperscrew,Starly,Walkway ,built
+-122.3049153,47.6567943,pkm7_capers,caperscrew,Rhyhorn,Ground,built
+-122.3049519,47.6570279,pkm8_capers,caperscrew,Glameow,Ground,built
+-122.3048462,47.6572922,pkm9_capers,caperscrew,Qwilfish,Ground,built
+-122.3051537,47.6573442,pkm10_capers,caperscrew,Sentret,Grass,nature
+-122.3100000,47.6500000,pkm1_Ho,RawDoggers,fletchling,Ground,built
+-122.3100000,47.6700000,pkm2_Ho,RawDoggers,Stantler,Red Square,built
+-122.3100000,47.6600000,pkm3_Ho,RawDoggers,Cyndaquil,Red Square,built 
+-122.3058921,47.6563227,imageAu22/pkm1_Yu.jpeg,Allen Yu,Ekans,ground,built
+-122.3058921,47.6559102,imageAu22/pkm2_Yu.jpeg,Allen Yu,Totodile,ground,built
+-122.3058921,47.6560019,imageAu22/pkm3_Yu.jpeg,Allen Yu,Machop,grass,nature
+-122.3058071,47.6560077,imageAu22/pkm5_tateishi.png,Sohshun Tateishi,Ekans,ground,built
+-122.3058071,47.6560077,imageAu22/pkm4_tateishi.png,Sohshun Tateishi,Whismur,walkway,built
+-122.3058071,47.6560077,imageAu22/pkm3_tateishi.png,Sohshun Tateishi,Castform,walkway,built
+-122.3058071,47.6560077,imageAu22/pkm2_tateishi.png,Sohshun Tateishi,Starly,walkway,built
+-122.3049256,47.6560077,imageAu22/pkm1_tateishi.png,Sohshun Tateishi,Machop,walkway,built
+-122.3100000,47.6560077,imageAu22/pkm1_mayo.jpg,Christiansen Mayo,Charmander,ground,built
+-122.3100000,47.6560077,imageAu22/pkm2_mayo.jpg,Christiansen Mayo,Starly,ground,built
+-122.3000000,47.6560077,imageAu22/pkm3_mayo.jpg,Christiansen Mayo,Machop,ground,built
+-122.3068750,47.6544820,imageAu22/pk1_sheynblat.png,ethan-sabrina,Totodile,walkway,built
+-122.3072650,47.6540730,imageAu22/pk2_sheynblat.png,ethan-sabrina,Starly,walkway,built
+-122.3071300,47.6541060,imageAu22/pk3_sheynblat.png,ethan-sabrina,Panpour,walkway,built
+-122.3078340,47.6535160,imageAu22/pk4_fang.png,ethan-sabrina,Cyndaquil,walkway,built
+-122.3078750,47.6541280,imageAu22/pk5_fang.png,ethan-sabrina,Grimer,walkway,built
+-122.3083110,47.6545760,imageAu22/pk6_fang.png,ethan-sabrina,Magikarp,walkway,built
+-122.1800000,47.3900000,imageAu22/pkm1_roy.jpg,roy-natalie,Fletching,walkway,built
+-122.1800000,47.3900000,imageAu22/pkm2_roy.jpg,roy-natalie,Eevee,grass,nature
+-122.1827000,47.3900000,imageAu22/pkm3_roy.jpg,roy-natalie,Stunky,grass,nature
+-122.1831000,47.3922000,imageAu22/pkm1_ngo.jpg,ngo-hieu,Diglett,brick,built
+-122.1831000,47.3923000,imageAu22/pkm2_ngo.jpg,ngo-hieu,Glameow,grass,nature
+-122.1831000,47.3923000,imageAu22/pkm3_ngo.jpg,ngo-hieu,Qwilfish,walkway,built
+-122.3070768,47.6569905,imageAu22/pkm3_clark,jelly,Bulbasaur,walkway,built
+-122.3073179,47.6570031,imageAu22/pkm2_clark,jelly,Eevee,walkway,built
+-122.3081578,47.6565759,imageAu22/pkm1_clark,jelly,Glameow,walkway,built
+-122.3084518,47.6563995,imageAu22/pkm3_hu,jelly,Dunnsparce,walkway,built
+-122.3095022,47.6560228,imageAu22/pkm2_hu,jelly,Pikachu,walkway,built
+-122.3104219,47.6562920,imageAu22/pkm1_hu,jelly,Jigglypuff,walkway,built
+-122.3050000,46.6560000,pkm1_Gurung.png,Nipesh Gurung,Ekans,walkway,nature
+-122.3050000,46.6560000,pkm2_Gurung.png,Nipesh Gurung,Smeargle,walkway,nature
+-122.3050000,46.6560000,pkm1_Gurung.pn3,Nipesh Gurung,Stufful,walkway,nature
+-122.3062000,47.6566900,imageAu22/pkm2_Kirk.png,Kirk,Smeargle ,Walkway,nature
+-122.3067400,47.6568600,imageAu22/pkm3_Harrill.png,Harrill,Stunky,Walkway,nature
+-122.3068800,47.6573000,imageAu22/pkm1_Kirk.png,Kirk,Dewpider,Grass,nature
+-122.3068500,47.6579500,imageAu22/pkm2_Harrill.png,Harrill,Dwebble,Grass,nature
+-122.3075500,47.6568500,imageAu22/pkm1_Harrill.png,Harrill,Snubbull,Grass,nature
+-122.3079100,47.6568100,imageAu22/pkm3_Kirk.png,Kirk,Smeargle,Walkway,nature
+-122.3100000,47.6600000,pkm1_sun,Shawn Sun,Miltank,walkway,built
+-122.3100000,47.6500000,pkm2_sun,Shawn Sun,Liwi,walkway,built
+-122.3100000,47.6500000,pkm3_sun,Shawn Sun,Sandshrew,walkway,built
+-122.3100000,47.6600000,pkm1_ha,Trang Ha,Miltank,walkway,built
+-122.3100000,47.6600000,pkm2_ha,Trang Ha,Wooper,walkway,built
+-122.3100000,47.6600000,pkm3_ha,Trang Ha,Dodou,walkway,built 
+-122.3059180,47.6600000,imageAu22/pkm1_cha.jpg,Christopher Cha,Seedot,walkway,built
+-122.3059180,47.6563710,imageAu22/pkm2_cha.jpg,Christopher Cha,Ducklett,walkway,built
+-122.3059180,47.6563710,imageAu22/pkm3_cha.jpg,Christopher Cha,Stufful,grass,nature
+-122.3100000,46.6600000,imageAu22/pkm1_woo.png,Jae Sang Woo,Stufful,walkway,nature
+-122.3100000,46.6600000,imageAu22/pkm2_woo.png,Jae Sang Woo,Stufful,walkway,nature
+-122.3100000,46.6600000,imageAu22/pkm3_woo.png,Jae Sang Woo,Castform,walkway,nature
+-122.3057203,47.6555596,imageAu22/pkm1_Fang.JPG,Leo Fang,ducklett,walkway,nature
+-122.3066825,47.6556838,imageAu22/pkm2_Fang.JPG,Leo Fang,stufful,walkway,nature
+-122.3057746,47.6564164,imageAu22/pkm3_Fang.JPG,Leo Fang,seedot,walkway,nature
+-122.3067100,47.6565200,imageAu22/pkm1_jiang.png,Jiang-Osman,Stunky,ground,built
+-122.3069400,47.6563900,imageAu22/pkm2_jiang.png,Jiang-Osman,Eevee,ground,built
+-122.3074500,47.6561300,imageAu22/pkm3_jiang.png,Jiang-Osman,Ducklett,grass,nature
+-122.3080000,47.6562800,imageAu22/pkm1_osman.png,Jiang-Osman,Ducklett,ground,built
+-122.3076600,47.6569400,imageAu22/pkm2_osman.png,Jiang-Osman,Wooper,tree,nature
+-122.3074500,47.6571600,imageAu22/pkm3_osman.png,Jiang-Osman,Nuzleaf,grass,nature
+-122.3100000,47.6600000,imageAu22/pkm2_DuncanTo.png,Duncan To,Stufful,ground,built
+-122.3100000,47.6600000,imageAu22/pkm1_DuncanTo.png,Duncan To,Eevee,ground,built
+-122.3100000,47.6600000,imageAu22/pkm3_DuncanTo.png,Duncan To,Zigzagoon,ground,built
+-122.3100000,47.6600000,imageAu22/pkm4_DuncanTo.png,Duncan To,Doduo,ground,built
+-122.3100000,47.6600000,imageAu22/pkm5_RaeOuyang.png,Rae Ouyang,Ducklett,ground,built
+-122.3100000,47.6600000,imageAu22/pkm6_RaeOuyang.png,Rae Ouyang,Chikorita,grass,nature
+-122.3100000,47.6600000,imageAu22/pkm7_RaeOuyang.png,Rae Ouyang,Eevee,ground,built
+-122.3000000,47.6500000,"imageAu22/pkm1_chang,png",kim-chang,Chikorita,walkway,built
+-122.3000000,47.6500000,imageAu22/pkm2_chang.png,kim-chang,Sandslash,walkway,built
+-122.3000000,47.6500000,imageAu22/pkm3_chang.png,kim-chang,Cyndaquil,grass,nature
+-122.3000000,47.6500000,imageAu22/pkm1_kim.png,kim-chang,Totodile,grass,nature
+-122.3000000,47.6500000,imageAu22/pkm2_kim.png,kim-chang,Stufful,grass,nature
+-122.3000000,47.6500000,imageAu22/pkm3_kim.png,kim-chang,Glammeow,water,nature
+-122.3000000,47.6549132,imageAu22/pkm1_Liu.jpg,Ethan-Liu,Mareep,Pavement,built
+-122.3000000,47.6540797,imageAu22/pkm2_Liu.jpg,Ethan-Liu,Throh,Pavement,built
+-122.3000000,47.6554600,imageAu22/pkm3_Liu.jpg,Ethan-Liu,Throh,Pavement,built
+-122.3070790,47.6568910,imageAu22/GEO_Tepig/pkm1_dang.jpg,shane-dang,Eevee,grass,nature
+-122.3085110,47.6563930,imageAu22/GEO_Tepig/pkm2_dang.jpg,shane-dang,Glameow,walkway,built
+-122.3085110,47.6558830,imageAu22/GEO_Tepig/pkm3_dang.jpg,shane-dang,Cyndaquil,walkway,built
+-122.3087150,47.6558190,imageAu22/GEO_Tepig/pkm4_dang.jpg,shane-dang,Wooper,walkway,built
+-122.3092440,47.6551800,imageAu22/GEO_Tepig/pkm5_dang.jpg,shane-dang,Miltank,grass,nature
+-122.3087790,47.6551920,imageAu22/GEO_Tepig/pkm6_kirchmeier.jpg,alex-kirchmeier,Oricorio,grass,nature
+-122.3095810,47.6554700,imageAu22/GEO_Tepig/pkm7_kirchmeier.jpg,alex-kirchmeier,Stufful,building,built
+-122.3100590,47.6558460,imageAu22/GEO_Tepig/pkm8_kirchmeier.jpg,alex-kirchmeier,Mareep,walkway,built
+-122.3095500,47.6563170,imageAu22/GEO_Tepig/pkm9_kirchmeier.jpg,alex-kirchmeier,Pikachu,walkway,built
+-122.3094390,47.6571620,imageAu22/GEO_Tepig/pkm10_shi.jpg,yuntian-shi,Stufful,grass,nature
+-122.3101450,47.6576010,imageAu22/GEO_Tepig/pkm11_shi.jpg,yuntian-shi,Popplio,ground,nature
+-122.3076290,47.6575440,imageAu22/GEO_Tepig/pkm12_shi.jpg,yuntian-shi,Nuzleaf,walkway,built
+-122.3068110,47.6569750,imageAu22/GEO_Tepig/pkm13_shi.jpg,yuntian-shi,Dwebble,walkway,built
+-122.3084400,47.6564800,pkmn1_Lindholm,Carson and Caitlin,Eevee,building,built
+-122.3085500,47.6564000,pkmn2_Lindholm,Carson and Caitlin,Fledgling,walkway,built
+-122.3089100,47.6557900,pkmn3_Lindholm,Carson and Caitlin,Quilfish,walkway,built
+-122.3088300,47.6554100,pkmn4_Lindholm,Carson and Caitlin,Cyndaquil,pavement,built
+-122.3087400,47.6552500,pkmn5_Lindholm,Carson and Caitlin,Miltank,walkway,built
+-122.3105200,47.6545800,pkmn6_Lindholm,Carson and Caitlin,Oricorio,pavement,built
+-122.3105200,47.6545800,pkmn7_Lindholm,Carson and Caitlin,Digglet,building,built
+-122.3091700,47.6521900,pkmn8_Lindholm,Carson and Caitlin,Stufful,building,built
+-122.3088300,47.6520400,pkmn9_Lindholm,Carson and Caitlin,Lanturn,bushes,nature
+-122.3099500,47.6525200,pkmn10_Lindholm,Carson and Caitlin,Piloswine,walkway,built
+-122.3083240,47.6585807,imageAu22/CheungGarcia/PKM1_CheungGarcia.png,CheungGarcia,Bulbasaur,pavement,built
+-122.3083254,47.6587987,imageAu22/CheungGarcia/PKM2_CheungGarcia.png,CheungGarcia,Popplio,building,built
+-122.3088776,47.6590013,imageAu22/CheungGarcia/PKM3_CheungGarcia.png,CheungGarcia,Glameow,grass,nature
+-122.3103421,47.6592558,imageAu22/CheungGarcia/PKM4_CheungGarcia.png,CheungGarcia,Ducklett,pavement,built
+-122.3109925,47.6592045,imageAu22/CheungGarcia/PKM5_CheungGarcia.png,CheungGarcia,Popplio,pavement,built
+-122.3105795,47.6601209,imageAu22/CheungGarcia/PKM6_CheungGarcia.png,CheungGarcia,Dwebble,sidewalk,built
+-122.3106864,47.6605287,imageAu22/CheungGarcia/PKM7_CheungGarcia.png,CheungGarcia,Deerling,parking lot,built
+-122.3084176,47.6599197,imageAu22/CheungGarcia/PKM8_CheungGarcia.png,CheungGarcia,Stufful,trail,nature
+-122.3148639,47.6539705,pkm1_dorsett,Dorsett,Phanpy,walkway,built
+-122.3150769,47.6540316,pkm2_dorsett,Dorsett,Spinarak,parking lot,built
+-122.3082081,47.6539018,pkm2_dorsett,Dorsett,Linoone,walkway,built
+-122.3056869,47.6557595,imageAu22/Team_Rocket/munna_DelaCuesta.JPG,AZ Dela Cuesta,Munna,walkway,built
+-122.3058000,47.6548000,imageAu22/Team_Rocket/Machop_DelaCuesta.JPG,AZ Dela Cuesta,Machop,walkway,built
+-122.3048800,47.6548000,imageAu22/Team_Rocket/Ekans_DelaCuesta.JPG,AZ Dela Cuesta,Ekans,walkway,built
